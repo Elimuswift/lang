@@ -344,5 +344,7 @@ return [
     'add_bill'              => 'Add  Bill',
     'extra_bill'            => 'Extra Bill',
     'due'                   => 'Due',
+    'view_students'         => 'View Students',
+    'create_account'        => 'Create User Account',
 
 ];
