@@ -346,5 +346,11 @@ return [
     'due'                   => 'Due',
     'view_students'         => 'View Students',
     'create_account'        => 'Create User Account',
+    'attach_permissions'    => 'Attach Access Permissions ',
+    'user_created'          => 'User account has been created',
+    'edit_staff'            => 'Edit Staff Profile',
+    'subjects_assigned'     => 'Teaching subjects selected and assigned',
+    'assign_subjects'       => 'Assign Subjects',
+    'staff_profile'         => 'Staff Profile'
 
 ];
