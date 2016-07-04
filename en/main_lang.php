@@ -381,5 +381,16 @@ return [
     'url'                   => 'URL',
     'edit_class_section'    => 'Edit Class Section',
     'create_class_section'  => 'Create Class Section',
-
+    'admit_student_bulk'    => 'Bulk Mode Admit',
+    'file'                  => 'File' ,                    
+    'upload'                => 'Upload',
+    'section_tag'           => 'Section Tag',
+    'class_subjects'        => 'Class Subjects',
+    'students_admited'      => ':up of :of students have been admited successfully',
+    'add_with_excel'        => 'Add With Excel',
+    'empty_subjects'        => 'No Subjects added for this class',
+    'average'               => 'Average',
+    'export_to_excel'       => 'Export To Excel',
+    'room_is_full'          => 'The room is fully occupied',
+    'subject_assigned'      => 'Subject assigned to :teacher',
 ];
