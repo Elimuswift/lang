@@ -393,4 +393,5 @@ return [
     'export_to_excel'       => 'Export To Excel',
     'room_is_full'          => 'The room is fully occupied',
     'subject_assigned'      => 'Subject assigned to :teacher',
+    'fees_structure'        => 'Official Fees Stucture'
 ];
