@@ -393,5 +393,7 @@ return [
     'export_to_excel'       => 'Export To Excel',
     'room_is_full'          => 'The room is fully occupied',
     'subject_assigned'      => 'Subject assigned to :teacher',
-    'fees_structure'        => 'Official Fees Stucture'
+    'fees_structure'        => 'Official Fees Stucture',
+    'student_upload_error'  => 'These students were not admited due to the following errors',
+    'make_payment'          => 'Make Payment'
 ];
