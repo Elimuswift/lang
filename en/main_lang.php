@@ -395,5 +395,6 @@ return [
     'subject_assigned'      => 'Subject assigned to :teacher',
     'fees_structure'        => 'Official Fees Stucture',
     'student_upload_error'  => 'These students were not admited due to the following errors',
-    'make_payment'          => 'Make Payment'
+    'make_payment'          => 'Make Payment',
+    'events'                => 'Events',
 ];
