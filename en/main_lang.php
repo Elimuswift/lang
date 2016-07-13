@@ -397,4 +397,5 @@ return [
     'student_upload_error'  => 'These students were not admited due to the following errors',
     'make_payment'          => 'Make Payment',
     'events'                => 'Events',
+    'discipline'            => 'Discipline',
 ];
