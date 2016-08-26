@@ -424,5 +424,10 @@ return [
     'starts_on'             => 'Starts On',
     'ends_on'               => 'Ends On',
     'title'                 => 'Title',
+    'billing_session'       => 'Billing Session',
+    'staff_add_success'     => 'Employee created successfully',
+    'edit_student'          => 'Edit Student Details',
+    'session_created'       => 'A new academic session has been created',
+    'failed_transaction'    => 'Transaction failed either due to an invalid transaction code or invalid input. please try again',
 
 ];
