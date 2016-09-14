@@ -237,7 +237,7 @@ return [
     'stream_section'        => 'StreamSection',
     'student'               => 'Student',
     'student_added'         => 'Student alredy added',
-    'student_not_founf'     => 'Student not found in our records',
+    'student_not_found'     => 'Student not found in our records or is suspended',
     'student_promoted'      => ':name promoted to :class',
     'students'              => 'Students',
     'students_promoted'     => 'Students from :from promoted to :to',
