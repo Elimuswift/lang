@@ -429,5 +429,9 @@ return [
     'edit_student'          => 'Edit Student Details',
     'session_created'       => 'A new academic session has been created',
     'failed_transaction'    => 'Transaction failed either due to an invalid transaction code or invalid input. please try again',
-
+    'class_position'        => 'Class Position',
+    'mean_grade'            => 'Mean Grade',
+    'total_marks'           => 'Total Marks',
+    'average_marks'         => 'Average Marks',
+    
 ];
