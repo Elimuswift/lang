@@ -433,5 +433,6 @@ return [
     'mean_grade'            => 'Mean Grade',
     'total_marks'           => 'Total Marks',
     'average_marks'         => 'Average Marks',
+    'publish_exam'          => 'Publish Results',
     
 ];
