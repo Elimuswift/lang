@@ -434,5 +434,11 @@ return [
     'total_marks'           => 'Total Marks',
     'average_marks'         => 'Average Marks',
     'publish_exam'          => 'Publish Results',
+    'exam_grading'          => 'Exam Grading',
+    'budgets'               => 'Budgets',
+    'financial_overview'    => 'Financial Overview',
+    'assets'                => 'Assets',
+    'finance'               => 'Finance',
+
     
 ];
