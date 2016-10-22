@@ -439,6 +439,12 @@ return [
     'financial_overview'    => 'Financial Overview',
     'assets'                => 'Assets',
     'finance'               => 'Finance',
+    'payments'              => 'Payments',
+    'filter'                => 'Filter',
+    'refund'                => 'Refund',
+    'reverse'               => 'Reverse',
+    'payment'               => 'Payment',
+    'paid_via'              => 'Paid via',
 
     
 ];
