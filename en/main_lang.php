@@ -445,6 +445,14 @@ return [
     'reverse'               => 'Reverse',
     'payment'               => 'Payment',
     'paid_via'              => 'Paid via',
-
-    
+    'invoice_for'           => 'Invoice for ',
+    'budget_title'          => 'Budget Tilte',
+    'effective_from'        => 'Effective From',
+    'budget_amount'         => 'Budget Amount',
+    'create_budget'         => 'Create Budget',
+    'details'               => 'Details',
+    'item_name'             => 'Item Name',
+    'budget_item'           => 'Budget Item',
+    'archived'              => 'Archived',
+    'suspended'             => 'Suspended'
 ];
