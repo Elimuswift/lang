@@ -382,7 +382,7 @@ return [
     'edit_class_section'    => 'Edit Class Section',
     'create_class_section'  => 'Create Class Section',
     'admit_student_bulk'    => 'Bulk Mode Admit',
-    'file'                  => 'File' ,                    
+    'file'                  => 'File' ,
     'upload'                => 'Upload',
     'section_tag'           => 'Section Tag',
     'class_subjects'        => 'Class Subjects',
@@ -454,5 +454,12 @@ return [
     'item_name'             => 'Item Name',
     'budget_item'           => 'Budget Item',
     'archived'              => 'Archived',
-    'suspended'             => 'Suspended'
+    'suspended'             => 'Suspended',
+    'process_payment'       => 'Process Payment',
+    'total_due'             => 'Total Due',
+    'pay_with_card'         => 'Pay With CreditCard',
+    'log_payment'           => 'Made payment of :currency :amount  via :via reference number :ref',
+    'activity_feed'         => 'Activity Feed',
+    'expense_created'       => 'Created Expense :ref of :currency :amount',
+    'search_results'        => 'Search Results',
 ];
