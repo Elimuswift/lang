@@ -462,4 +462,5 @@ return [
     'activity_feed'         => 'Activity Feed',
     'expense_created'       => 'Created Expense :ref of :currency :amount',
     'search_results'        => 'Search Results',
+    'admit_new_student'     => 'Admited a new sudent :name',
 ];
