@@ -463,4 +463,9 @@ return [
     'expense_created'       => 'Created Expense :ref of :currency :amount',
     'search_results'        => 'Search Results',
     'admit_new_student'     => 'Admited a new sudent :name',
+    'leaves'                => 'Leaves',
+    'instagram_id'          => 'Instagram Username',
+    'twitter_id'            => 'Twitter Username',
+    'facebook_id'           => 'Facebook ID',
+    'leave_applied'         => 'Leave apllication was successful'
 ];
