@@ -467,5 +467,8 @@ return [
     'instagram_id'          => 'Instagram Username',
     'twitter_id'            => 'Twitter Username',
     'facebook_id'           => 'Facebook ID',
-    'leave_applied'         => 'Leave apllication was successful'
+    'leave_applied'         => 'Leave apllication was successful',
+    'login_event'           => 'Logged in to your account on :time from IP :ip',
+    'logout_event'          => 'Logged out from your account on :time from IP :ip',
+    'failed_login_event'    => 'Failed Login attempt to your account on :time from IP :ip',
 ];
