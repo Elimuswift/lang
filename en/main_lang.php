@@ -471,4 +471,11 @@ return [
     'login_event'           => 'Logged in to your account on :time from IP :ip',
     'logout_event'          => 'Logged out from your account on :time from IP :ip',
     'failed_login_event'    => 'Failed Login attempt to your account on :time from IP :ip',
+    'support'               => 'Support',
+    'user_roles'            => 'User Roles',
+    'email_templates'       => 'Email Templates',
+    'alert_settings'        => 'Alert Settings',
+    'library_settings'      => 'Library Settings',
+    'payment_failed'        => 'Payment athentication failed if you think this is an error please contact the site owner',
+    'fees_defaulters'       => 'Fees Defaulters',
 ];

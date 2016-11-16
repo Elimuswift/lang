@@ -7,7 +7,7 @@ return [
      * Shared translations.
      *
      */
-    'title' => 'Laravel Installer',
+    'title' => 'Ultimate School Manager Installer',
     'next' => 'Next Step',
 
 
@@ -17,8 +17,8 @@ return [
      *
      */
     'welcome' => [
-        'title'   => 'Welcome To The Installer',
-        'message' => 'Welcome to the setup wizard.',
+        'title'   => 'Ultimate School Manager Installer',
+        'message' => 'Welcome to the Ultimate School Manager Installation wizard.',
     ],
 
 
@@ -65,4 +65,10 @@ return [
         'finished' => 'Application has been successfully installed.',
         'exit' => 'Click here to exit',
     ],
+    'verify' => [
+        'title' => 'Product Verification',
+        'envanto' => 'Envanto Username',
+        'purchase'  => 'Purchase Key',
+        'verify'    => 'Verify'
+    ]
 ];
