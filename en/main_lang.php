@@ -478,4 +478,22 @@ return [
     'library_settings'      => 'Library Settings',
     'payment_failed'        => 'Payment athentication failed if you think this is an error please contact the site owner',
     'fees_defaulters'       => 'Fees Defaulters',
+    'notifications'         => 'Notifications',
+    'tag_placeholder'       => 'Border',
+    'tag_name'              => 'Tag Name',
+    'tag_type'              => 'Tag Type',
+    'tags'                  => 'Tags',
+    'create_tag'            => 'Create Tag',
+    'tag'                   => 'Tag',
+    'salary'                => 'Salary',
+    'timeline'              => 'Timeline',
+    'transport'             => 'Transport',
+    'buses'                 => 'Buses',
+    'routes'                => 'Routes',
+    'bus_route'             => 'Bus Route',
+    'capacity'              => 'Capacity',
+    'plate_number'          => 'Plate Number',
+    'image'                 => 'Image',
+
+
 ];
