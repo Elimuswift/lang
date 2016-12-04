@@ -528,5 +528,12 @@ return [
     'recent_cases'          => 'Recent Discipline Cases',
     'this_month'            => 'This Month',
     'this_year'             => 'This Year',
-
+    'lock_timeout'          => 'Lock Timeout',
+    'app_url'               => 'Site URL',
+    'invoice_prefix'        => 'Invoice Prefix',
+    'due_after_info'        => 'Change this whenever you want to shift to another billing period.',
+    'edit_budget'           => 'Edit Budget',
+    'salary_term'           => 'Salary term',
+    'allocate_salary'       => 'Allocate Salary',
+    'staff_settings'        => 'Staff Settings',
 ];
