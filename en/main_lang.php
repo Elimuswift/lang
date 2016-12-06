@@ -536,4 +536,8 @@ return [
     'salary_term'           => 'Salary term',
     'allocate_salary'       => 'Allocate Salary',
     'staff_settings'        => 'Staff Settings',
+    'minimum_amount'        => 'Minimum Amount',
+    'send_notification'     => 'Send Notification',
+    'exam_results'          => 'Exam Results',
+    'to_pdf'                => 'To PDF',
 ];
