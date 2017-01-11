@@ -455,7 +455,7 @@ return [
     'archived'              => 'Archived',
     'process_payment'       => 'Process Payment',
     'total_due'             => 'Total Due',
-    'pay_with_card'         => 'Pay With CreditCard',
+    'pay_with_card'         => 'Pay With CreditCard via :via',
     'log_payment'           => 'Made payment of :currency :amount  via :via reference number :ref',
     'activity_feed'         => 'Activity Feed',
     'expense_created'       => 'Created Expense :ref of :currency :amount',
@@ -540,4 +540,8 @@ return [
     'send_notification'     => 'Send Notification',
     'exam_results'          => 'Exam Results',
     'to_pdf'                => 'To PDF',
+    'allow_payments'        => 'Allow Payments Via :via',
+    'add_item'              => 'Add Item',
+    'failed'                => 'Failed',
+    'success'               => 'Success',
 ];
