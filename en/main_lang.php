@@ -544,4 +544,7 @@ return [
     'add_item'              => 'Add Item',
     'failed'                => 'Failed',
     'success'               => 'Success',
+    'download_file'         => 'Download File',
+    'upload_file'           => 'Upload File',
+    'add_bus'               => 'Add Vehicle'
 ];
