@@ -546,5 +546,8 @@ return [
     'success'               => 'Success',
     'download_file'         => 'Download File',
     'upload_file'           => 'Upload File',
-    'add_bus'               => 'Add Vehicle'
+    'add_bus'               => 'Add Vehicle',
+    'staff_created'         => 'Signed up new staff :name',
+    'user_create_event'     => 'Added a new user identified by :email',
+    'remove_subject'        => 'Remove Assigned Subject',
 ];
