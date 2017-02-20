@@ -260,7 +260,7 @@ return [
     'teacher_assigned'      => 'Teacher successfully assigned to class',
     'teachers'              => 'Teachers',
     'to'                    => 'To',
-    'total_paid'            => 'Total Fees Paid',
+    'total_paid'            => 'Total Amount Paid',
     'type'                  => 'Type',
     'update'                => 'Update',
     'upper_limit'           => 'Upper Limit',
@@ -454,7 +454,7 @@ return [
     'budget_item'           => 'Budget Item',
     'archived'              => 'Archived',
     'process_payment'       => 'Process Payment',
-    'total_due'             => 'Total Due',
+    'total_due'             => 'Total Due Amount',
     'pay_with_card'         => 'Pay With CreditCard via :via',
     'log_payment'           => 'Made payment of :currency :amount  via :via reference number :ref',
     'activity_feed'         => 'Activity Feed',
@@ -575,5 +575,5 @@ return [
     'updated'               => 'Updated',
     'created'               => 'Created',
     'select'                => 'Choose an option from here',
-
+    'update_invoice'        => 'Update Invoice',
 ];
