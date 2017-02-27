@@ -576,4 +576,7 @@ return [
     'created'               => 'Created',
     'select'                => 'Choose an option from here',
     'update_invoice'        => 'Update Invoice',
+    'column_title'          => 'Column Title',
+    'create_list'           => 'Create List',
+    'classlist'             => 'Class List'
 ];
