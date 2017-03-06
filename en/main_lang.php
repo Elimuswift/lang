@@ -578,5 +578,9 @@ return [
     'update_invoice'        => 'Update Invoice',
     'column_title'          => 'Column Title',
     'create_list'           => 'Create List',
-    'classlist'             => 'Class List'
+    'classlist'             => 'Class List',
+    'returned_on'           => 'Returned on',
+    'date_borrowed'         => 'Date borrowed',
+    'mark_as_lost'          => 'Mark as lost', 
+    'notify_parent'         => 'Notify Parent',
 ];
