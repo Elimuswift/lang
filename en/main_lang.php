@@ -8,7 +8,7 @@ return [
     |
     | This is the main language file for this Application all notifications and
     | messages that we need to display to the user are available here.
-    | You are free to modify these language lines according to 
+    | You are free to modify these language lines according to
     | your application's requirements.
     |
     */
@@ -582,7 +582,7 @@ return [
     'classlist'             => 'Class List',
     'returned_on'           => 'Returned on',
     'date_borrowed'         => 'Date borrowed',
-    'mark_as_lost'          => 'Mark as lost', 
+    'mark_as_lost'          => 'Mark as lost',
     'notify_parent'         => 'Notify Parent',
     'demo_warning'          => 'Operation not permited application is in DEMO Mode',
     'date_paid'             => 'Date Paid',
@@ -592,5 +592,8 @@ return [
     'daughter'              => 'Daughter',
     'son'                   => 'Son',
     'created_exam'          => 'Added a new exam :exam',
-    'edited_exam'          => 'Edited details for exam :exam',
+    'edited_exam'           => 'Edited details for exam :exam',
+    'student_edited'        => 'Edited student profile for :name ',
+    'view_profile'          => 'View Profile',
+    'route_students'        => 'Route Students',
 ];
