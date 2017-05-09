@@ -14,6 +14,7 @@ return [
     */
 
         'access_denied' => 'Access to this module is not allowed',
+        'academic_session' => 'Academic Session',
         'account' => 'Account',
         'accounting' => 'Accounting',
         'action' => 'Action',
