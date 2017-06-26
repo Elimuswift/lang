@@ -600,4 +600,7 @@ return [
         'import_from_excel' => 'Import From Excel',
         'parent_added' => 'A new parent profile for :name was created',
         'authorized_by' => 'Authorized By',
+        'leave_types' => 'Leave Types',
+        'length_days' => 'Length in Days',
+        'limit_per_year' => 'Limit per year',
        ];
