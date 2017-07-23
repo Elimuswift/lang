@@ -603,4 +603,6 @@ return [
         'leave_types' => 'Leave Types',
         'length_days' => 'Length in Days',
         'limit_per_year' => 'Limit per year',
+        'personal_info' => 'Personal Information',
+        'employment' => 'Employment',
        ];
