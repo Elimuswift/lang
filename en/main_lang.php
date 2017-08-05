@@ -425,7 +425,7 @@ return [
         'starts_on' => 'Starts On',
         'ends_on' => 'Ends On',
         'title' => 'Title',
-        'billing_session' => 'Billing Session',
+        'billing_session' => 'Term',
         'staff_add_success' => 'Employee created successfully',
         'edit_student' => 'Edit Student Details',
         'session_created' => 'A new academic session has been created',
@@ -605,4 +605,5 @@ return [
         'limit_per_year' => 'Limit per year',
         'personal_info' => 'Personal Information',
         'employment' => 'Employment',
+        'add_an_expense' => 'Add an expense',
        ];
