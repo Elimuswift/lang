@@ -606,4 +606,6 @@ return [
         'personal_info' => 'Personal Information',
         'employment' => 'Employment',
         'add_an_expense' => 'Add an expense',
+        'paid_by' => 'Paid By',
+        'received_by' => 'Recieved By',
        ];
