@@ -608,4 +608,7 @@ return [
         'add_an_expense' => 'Add an expense',
         'paid_by' => 'Paid By',
         'received_by' => 'Recieved By',
+        'reason' => 'Reason',
+        'leave_application' => 'Leave Application',
+        'apply' => 'Apply',
        ];
