@@ -611,4 +611,9 @@ return [
         'reason' => 'Reason',
         'leave_application' => 'Leave Application',
         'apply' => 'Apply',
+        'carry_forward' => 'Carried Forward from :period',
+        'not_paid' => 'Not Paid',
+        'fully_paid' => 'Fully Paid',
+        'partially_paid' => 'Partially Paid',
+        'payment_methods' => 'Payment Methods',
        ];
