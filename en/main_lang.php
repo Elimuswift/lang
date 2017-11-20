@@ -616,4 +616,5 @@ return [
         'fully_paid' => 'Fully Paid',
         'partially_paid' => 'Partially Paid',
         'payment_methods' => 'Payment Methods',
+        'invoice_templates' => 'Invoice Templates',
        ];
