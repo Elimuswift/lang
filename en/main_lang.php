@@ -617,4 +617,7 @@ return [
         'partially_paid' => 'Partially Paid',
         'payment_methods' => 'Payment Methods',
         'invoice_templates' => 'Invoice Templates',
+        'class_list' => 'Class List',
+        'new_student' => 'New Student',
+        'update_room_details' => 'Update Room Details',
        ];
