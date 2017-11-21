@@ -620,4 +620,10 @@ return [
         'class_list' => 'Class List',
         'new_student' => 'New Student',
         'update_room_details' => 'Update Room Details',
+        'is_active' => 'Is Active',
+        'is_default' => 'Is Default',
+        'payment_method' => 'Payment Method',
+        'make_default' => 'Make Default',
+        'disabled' => 'Disabled',
+        'export_pdf' => 'Export To PDF',
        ];
