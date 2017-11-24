@@ -626,4 +626,6 @@ return [
         'make_default' => 'Make Default',
         'disabled' => 'Disabled',
         'export_pdf' => 'Export To PDF',
+        'invoices_due_after' => 'Invoices Due After',
+        'new_session' => 'New Session',
        ];
