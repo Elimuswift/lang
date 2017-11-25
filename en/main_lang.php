@@ -18,6 +18,7 @@ return [
         'account' => 'Account',
         'accounting' => 'Accounting',
         'action' => 'Action',
+        'activate_session' => 'Set as Active',
         'add' => 'Add',
         'add-category' => 'Add Category',
         'add_book' => 'Add Book',
