@@ -629,4 +629,5 @@ return [
         'export_pdf' => 'Export To PDF',
         'invoices_due_after' => 'Invoices Due After',
         'new_session' => 'New Session',
+        'add_new' => 'Add New',
        ];
