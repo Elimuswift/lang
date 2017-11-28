@@ -630,4 +630,6 @@ return [
         'invoices_due_after' => 'Invoices Due After',
         'new_session' => 'New Session',
         'add_new' => 'Add New',
+        'change_profile_photo' => 'Change Profile Photo',
+        'select_image' => 'Click here to choose image',
        ];
