@@ -7,4 +7,5 @@ return [
     'change_session' => 'You are about to shift to another academic session, please make sure that all is set for the new academic session',
     'session_changed' => 'The migration to the new academic session was successful, the migration of data is taking place in the background',
     'dormitory_updated' => 'The dormitory :dorm hass been updated',
+    'search_parent' => 'If the gurdian/parent details have already been added search using their name or phone number. If it is a new parent/guardian click the add new button to add them.',
 ];

@@ -632,4 +632,5 @@ return [
         'add_new' => 'Add New',
         'change_profile_photo' => 'Change Profile Photo',
         'select_image' => 'Click here to choose image',
+        'name_or_phone' => 'Name or Phone Number',
        ];
