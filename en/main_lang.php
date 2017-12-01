@@ -643,4 +643,11 @@ return [
         'send_reminder' => 'Send Reminder',
         'tax' => 'Tax (%)',
         'unit_cost' => 'Unit Cost',
+        'tax_rate' => 'Tax Rate',
+        'invoice_item' => 'Invoice Item',
+        'create_invoice_item' => 'Create Invoice Item',
+        'create_template' => 'Create Template',
+        'due_after' => 'Due After',
+        'quantity' => 'Quantity',
+        'qty' => 'QTY',
        ];
