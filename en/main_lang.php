@@ -650,4 +650,7 @@ return [
         'due_after' => 'Due After',
         'quantity' => 'Quantity',
         'qty' => 'QTY',
+        'view_payments' => 'View Payments',
+        'invoice_payments' => 'Invoice Payments',
+        'recent_payments' => 'Recent Payments',
        ];
