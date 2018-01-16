@@ -655,4 +655,6 @@ return [
         'recent_payments' => 'Recent Payments',
         'country' => 'Country',
         'delete_items' => 'Delete Items',
+        'recently_paid_invoices' => 'Recently Paid Invoices',
+        'paid' => 'Paid',
        ];
