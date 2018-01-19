@@ -8,4 +8,6 @@ return [
     'session_changed' => 'The migration to the new academic session was successful, the migration of data is taking place in the background',
     'dormitory_updated' => 'The dormitory :dorm hass been updated',
     'search_parent' => 'If the gurdian/parent details have already been added search using their name or phone number. If it is a new parent/guardian click the add new button to add them.',
+    'subject_assigined' => ':name has been assigned to teach :subject for :class',
+    'no_assigned_teacher' => 'There were no teachers found assigned to teach :subject',
 ];
