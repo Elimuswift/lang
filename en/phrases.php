@@ -10,4 +10,5 @@ return [
     'search_parent' => 'If the gurdian/parent details have already been added search using their name or phone number. If it is a new parent/guardian click the add new button to add them.',
     'subject_assigined' => ':name has been assigned to teach :subject for :class',
     'no_assigned_teacher' => 'There were no teachers found assigned to teach :subject',
+    'drag_lessons' => 'Drag and drop Lessons on the timetable',
 ];
