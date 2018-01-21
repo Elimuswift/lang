@@ -53,7 +53,6 @@ return [
         'assign_teacher' => 'Assign Teacher',
         'assign_techer' => 'Assign Techer',
         'attendance' => 'Attendance',
-        'auther' => 'Author',
         'author' => 'Author',
         'available' => 'Available',
         'bill_description' => 'Bill Description',
@@ -671,4 +670,7 @@ return [
         'add_lesson' => 'Add Lesson',
         'lessons' => 'Lessons',
         'lessons_deleted' => 'The lesson was deleted from the class subjects',
+        'change_tile_color' => 'Change Tile Color',
+        'tile_color' => 'Tile Color',
+        'apply_changes' => 'Apply Changes',
        ];
