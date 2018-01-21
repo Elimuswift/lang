@@ -11,4 +11,5 @@ return [
     'subject_assigined' => ':name has been assigned to teach :subject for :class',
     'no_assigned_teacher' => 'There were no teachers found assigned to teach :subject',
     'drag_lessons' => 'Drag and drop Lessons on the timetable',
+    'delete_lesson' => 'You are about to remove the lesson for :lesson scheduled for :day :start to :end',
 ];
