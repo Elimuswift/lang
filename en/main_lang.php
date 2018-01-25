@@ -673,4 +673,7 @@ return [
         'change_tile_color' => 'Change Tile Color',
         'tile_color' => 'Tile Color',
         'apply_changes' => 'Apply Changes',
+        'view_subjects' => 'View Subjects',
+        'mark_attendance' => 'Mark Attendance',
+        'lesson_options' => 'Lesson Options',
        ];
