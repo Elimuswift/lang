@@ -676,4 +676,9 @@ return [
         'view_subjects' => 'View Subjects',
         'mark_attendance' => 'Mark Attendance',
         'lesson_options' => 'Lesson Options',
+        'insert_comment' => 'Add a Comment',
+        'mark_attendance' => 'Mark Addtendance',
+        'close' => 'Close',
+        'late' => 'Late',
+        'absent' => 'Absent',
        ];
