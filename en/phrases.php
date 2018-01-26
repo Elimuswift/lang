@@ -12,4 +12,5 @@ return [
     'no_assigned_teacher' => 'There were no teachers found assigned to teach :subject',
     'drag_lessons' => 'Drag and drop Lessons on the timetable',
     'delete_lesson' => 'You are about to remove the lesson for :lesson scheduled for :day :start to :end',
+    'attendance_updated' => 'Attendance for the date :date has been updated',
 ];

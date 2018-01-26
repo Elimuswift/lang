@@ -677,8 +677,9 @@ return [
         'mark_attendance' => 'Mark Attendance',
         'lesson_options' => 'Lesson Options',
         'insert_comment' => 'Add a Comment',
-        'mark_attendance' => 'Mark Addtendance',
+        'mark_attendance' => 'Mark Attendance',
         'close' => 'Close',
         'late' => 'Late',
         'absent' => 'Absent',
+        'lesson' => 'Lesson',
        ];
