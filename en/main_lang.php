@@ -60,7 +60,7 @@ return [
         'bill_title' => 'Bill Title',
         'bill_to' => 'Bill To',
         'bill_to_all' => 'Bill To All',
-        'billing' => 'Billing',
+        'billing' => 'Fee Types',
         'bills' => 'Bills',
         'birth_date' => 'Birth Date',
         'book_category' => 'Book Category',
@@ -682,4 +682,7 @@ return [
         'late' => 'Late',
         'absent' => 'Absent',
         'lesson' => 'Lesson',
+        'all_students' => 'All Students',
+        'suspended_students' => 'Suspended Students',
+        'archived_students' => 'Archived Students',
        ];
