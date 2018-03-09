@@ -693,4 +693,5 @@ return [
         'parent_name' => 'Parent Name',
         'parent_email' => 'Parent Email',
         'parent_phone' => 'Parent Phone',
+        'billing_cycles' => 'Billing Cycles',
        ];
