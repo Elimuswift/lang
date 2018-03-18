@@ -694,4 +694,6 @@ return [
         'parent_email' => 'Parent Email',
         'parent_phone' => 'Parent Phone',
         'billing_cycles' => 'Billing Cycles',
+        'new_semester' => 'New Semester',
+        'create_semester' => 'Add New Billing Cycle',
        ];
