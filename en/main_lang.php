@@ -696,4 +696,8 @@ return [
         'billing_cycles' => 'Billing Cycles',
         'new_semester' => 'New Semester',
         'create_semester' => 'Add New Billing Cycle',
+        'view_attendance' => 'View Attendance',
+        'present' => 'Present',
+        'absent' => 'Absent',
+        'late' => 'Late',
        ];
