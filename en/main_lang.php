@@ -700,4 +700,7 @@ return [
         'present' => 'Present',
         'absent' => 'Absent',
         'late' => 'Late',
+        'timetable' => 'Timetable',
+        'update_semester' => 'Update Semester',
+        'print_invoice' => 'Print Invoice',
        ];
