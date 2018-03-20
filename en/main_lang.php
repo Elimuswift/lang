@@ -703,4 +703,10 @@ return [
         'timetable' => 'Timetable',
         'update_semester' => 'Update Semester',
         'print_invoice' => 'Print Invoice',
+        'date_sent' => 'Date Sent',
+        'message' => 'Message',
+        'event_disclaimer' => 'You have a lesson to attend on :day in :class from :from to :to',
+        'view_timetable' => 'View Timetable',
+        'add_contact' => 'Add Contact',
+        'company_profle' => 'Company Profile',
        ];
