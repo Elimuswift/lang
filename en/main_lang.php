@@ -725,4 +725,5 @@ return [
         'report_case' => 'Report Case',
         'date_to_return' => 'Date to Report Back',
         'create_fee_type' => 'Created an new fee type :title',
+        'delete_fee_type' => 'Deleted a fee type :title of amount :amount',
        ];
