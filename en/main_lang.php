@@ -469,9 +469,9 @@ return [
         'twitter_id' => 'Twitter Username',
         'facebook_id' => 'Facebook ID',
         'leave_applied' => 'Leave apllication was successful',
-        'login_event' => 'Logged in to your account on :time from IP :ip',
-        'logout_event' => 'Logged out from your account on :time from IP :ip',
-        'failed_login_event' => 'Failed Login attempt to your account on :time from IP :ip',
+        'login_event' => 'Logged in to your account on :time using :browser from :from',
+        'logout_event' => 'Logged out from your account on :time',
+        'failed_login_event' => 'Failed Login attempt to your account on :time using :browser from :from',
         'support' => 'Support',
         'user_roles' => 'User Roles',
         'email_templates' => 'Email Templates',
@@ -724,4 +724,5 @@ return [
         'detailed_report' => 'Detailed Report',
         'report_case' => 'Report Case',
         'date_to_return' => 'Date to Report Back',
+        'create_fee_type' => 'Created an new fee type :title',
        ];
