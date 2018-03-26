@@ -726,4 +726,12 @@ return [
         'date_to_return' => 'Date to Report Back',
         'create_fee_type' => 'Created an new fee type :title',
         'delete_fee_type' => 'Deleted a fee type :title of amount :amount',
+        'create_bursary_payment' => 'Create Bursary &amp; Scholarship Payment',
+        'create_payment' => 'Create Payment',
+        'amount_allocated' => 'Amount Allocated',
+        'bursary_amount_plh' => 'Amount Received for the bursary',
+        'location_not_available' => '[Location Not Available]',
+        'list_options' => 'List Generator Options',
+        'invoice_item_added' => 'The item :title was successfully added to this invoice',
+        'invoice_inactive' => 'This ivoce is not active or does not belong to the current billing period',
        ];
