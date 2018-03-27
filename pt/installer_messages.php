@@ -7,9 +7,9 @@ return [
      * Shared translations.
      *
      */
-    'title' => 'Instalação de Laravel',
-    'next' => 'Próximo Passo',
-    'finish' => 'Instalar',
+    'finish'    => 'Instalar',
+    'next'      => 'Próximo Passo',
+    'title'     => 'Instalação de Laravel',
 
 
     /**
@@ -17,9 +17,9 @@ return [
      * Home page translations.
      *
      */
-    'welcome' => [
-        'title'   => 'Bem-vindo ao Instalador',
-        'message' => 'Bem-vindo ao assistente de configuração.',
+    'welcome'   => [
+        'message'   => 'Bem-vindo ao assistente de configuração.',
+        'title'     => 'Bem-vindo ao Instalador',
     ],
 
 
@@ -28,7 +28,7 @@ return [
      * Requirements page translations.
      *
      */
-    'requirements' => [
+    'requirements'  => [
         'title' => 'Requisitos',
     ],
 
@@ -38,7 +38,7 @@ return [
      * Permissions page translations.
      *
      */
-    'permissions' => [
+    'permissions'   => [
         'title' => 'Permissões',
     ],
 
@@ -48,11 +48,11 @@ return [
      * Environment page translations.
      *
      */
-    'environment' => [
-        'title' => 'Configurações de Ambiente',
-        'save' => 'Salvar .env',
-        'success' => 'As configurações de seu arquivo .env foram gravadas.',
-        'errors' => 'Não foi possível gravar o arquivo .env, por favor crie-o manualmente.',
+    'environment'   => [
+        'errors'    => 'Não foi possível gravar o arquivo .env, por favor crie-o manualmente.',
+        'save'      => 'Salvar .env',
+        'success'   => 'As configurações de seu arquivo .env foram gravadas.',
+        'title'     => 'Configurações de Ambiente',
     ],
 
 
@@ -62,8 +62,8 @@ return [
      *
      */
     'final' => [
-        'title' => 'Terminado',
-        'finished' => 'Aplicação foi instalada com sucesso',
-        'exit' => 'Clique aqui para sair',
+        'exit'      => 'Clique aqui para sair',
+        'finished'  => 'Aplicação foi instalada com sucesso',
+        'title'     => 'Terminado',
     ],
 ];

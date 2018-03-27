@@ -7,8 +7,8 @@ return [
      * Shared translations.
      *
      */
+    'next'  => 'Volgende stap',
     'title' => 'Laravel Installer',
-    'next' => 'Volgende stap',
 
 
     /**
@@ -16,9 +16,9 @@ return [
      * Home page translations.
      *
      */
-    'welcome' => [
-        'title'   => 'Welkom bij het installatie proces...',
-        'message' => 'Welkom bij de installatiewizard',
+    'welcome'   => [
+        'message'   => 'Welkom bij de installatiewizard',
+        'title'     => 'Welkom bij het installatie proces...',
     ],
 
 
@@ -27,7 +27,7 @@ return [
      * Requirements page translations.
      *
      */
-    'requirements' => [
+    'requirements'  => [
         'title' => 'Vereisten',
     ],
 
@@ -37,7 +37,7 @@ return [
      * Permissions page translations.
      *
      */
-    'permissions' => [
+    'permissions'   => [
         'title' => 'Permissies',
     ],
 
@@ -47,11 +47,11 @@ return [
      * Environment page translations.
      *
      */
-    'environment' => [
-        'title' => 'Environment Settings',
-        'save' => '.env Opslaan',
-        'success' => 'Uw .env bestand is opgeslagen.',
-        'errors' => 'Het is niet mogelijk om een .env bestand aan te maken, maak a.u.b het bestand zelf aan.',
+    'environment'   => [
+        'errors'    => 'Het is niet mogelijk om een .env bestand aan te maken, maak a.u.b het bestand zelf aan.',
+        'save'      => '.env Opslaan',
+        'success'   => 'Uw .env bestand is opgeslagen.',
+        'title'     => 'Environment Settings',
     ],
 
 
@@ -61,8 +61,8 @@ return [
      *
      */
     'final' => [
-        'title' => 'Voltooid',
-        'finished' => 'Applicatie is succesvol geïnstalleerd.',
-        'exit' => 'Klik hier om af te sluiten.',
+        'exit'      => 'Klik hier om af te sluiten.',
+        'finished'  => 'Applicatie is succesvol geïnstalleerd.',
+        'title'     => 'Voltooid',
     ],
 ];

@@ -7,8 +7,8 @@ return [
      * Shared translations.
      *
      */
-    'title'        => 'Установка Laravel',
-    'next'         => 'Следующий шаг',
+    'next'  => 'Следующий шаг',
+    'title' => 'Установка Laravel',
 
 
     /**
@@ -16,9 +16,9 @@ return [
      * Home page translations.
      *
      */
-    'welcome'      => [
-        'title'   => 'Установка Laravel',
-        'message' => 'Добро пожаловать в первоначальную настройку фреймворка Laravel.',
+    'welcome'   => [
+        'message'   => 'Добро пожаловать в первоначальную настройку фреймворка Laravel.',
+        'title'     => 'Установка Laravel',
     ],
 
 
@@ -27,7 +27,7 @@ return [
      * Requirements page translations.
      *
      */
-    'requirements' => [
+    'requirements'  => [
         'title' => 'Необходимые модули',
     ],
 
@@ -37,7 +37,7 @@ return [
      * Permissions page translations.
      *
      */
-    'permissions'  => [
+    'permissions'   => [
         'title' => 'Проверка прав на папках',
     ],
 
@@ -47,11 +47,11 @@ return [
      * Environment page translations.
      *
      */
-    'environment'  => [
-        'title'   => 'Настройки окружения',
-        'save'    => 'Сохранить .env',
-        'success' => 'Настройки успешно сохранены в файле .env',
-        'errors'  => 'Произошла ошибка при сохранении файла .env, пожалуйста, сохраните его вручную',
+    'environment'   => [
+        'errors'    => 'Произошла ошибка при сохранении файла .env, пожалуйста, сохраните его вручную',
+        'save'      => 'Сохранить .env',
+        'success'   => 'Настройки успешно сохранены в файле .env',
+        'title'     => 'Настройки окружения',
     ],
 
 
@@ -60,9 +60,9 @@ return [
      * Final page translations.
      *
      */
-    'final'        => [
-        'title'    => 'Готово',
-        'finished' => 'Приложение успешно настроено.',
-        'exit'     => 'Нажмите для выхода',
+    'final' => [
+        'exit'      => 'Нажмите для выхода',
+        'finished'  => 'Приложение успешно настроено.',
+        'title'     => 'Готово',
     ],
 ];

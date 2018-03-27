@@ -7,8 +7,8 @@ return [
      * Shared translations.
      *
      */
+    'next'  => 'Suivant',
     'title' => 'Installateur de Laravel',
-    'next' => 'Suivant',
 
 
     /**
@@ -16,9 +16,9 @@ return [
      * Home page translations.
      *
      */
-    'welcome' => [
-        'title'   => 'Bienvenue dans l’installateur...',
-        'message' => 'Bienvenue dans le programme d’installation.',
+    'welcome'   => [
+        'message'   => 'Bienvenue dans le programme d’installation.',
+        'title'     => 'Bienvenue dans l’installateur...',
     ],
 
 
@@ -27,7 +27,7 @@ return [
      * Requirements page translations.
      *
      */
-    'requirements' => [
+    'requirements'  => [
         'title' => 'Prérequis',
     ],
 
@@ -37,7 +37,7 @@ return [
      * Permissions page translations.
      *
      */
-    'permissions' => [
+    'permissions'   => [
         'title' => 'Permissions',
     ],
 
@@ -47,11 +47,11 @@ return [
      * Environment page translations.
      *
      */
-    'environment' => [
-        'title' => 'Paramètres d’environment',
-        'save' => 'Enregistrer .env',
-        'success' => 'Votre fichier .env a été sauvegardé.',
-        'errors' => 'Impossible d’enregistrer le fichier .env, il faut que vous le créiez manuellement.',
+    'environment'   => [
+        'errors'    => 'Impossible d’enregistrer le fichier .env, il faut que vous le créiez manuellement.',
+        'save'      => 'Enregistrer .env',
+        'success'   => 'Votre fichier .env a été sauvegardé.',
+        'title'     => 'Paramètres d’environment',
     ],
 
 
@@ -61,9 +61,9 @@ return [
      *
      */
     'final' => [
-        'title' => 'Terminé',
-        'finished' => 'L’application a été installée avec succès.',
-        'exit' => 'Cliquez ici pour quitter',
+        'exit'      => 'Cliquez ici pour quitter',
+        'finished'  => 'L’application a été installée avec succès.',
+        'title'     => 'Terminé',
     ],
 
     /**
@@ -71,43 +71,20 @@ return [
      * Update specific translations
      *
      */
-    'updater' => [
-        /**
-         *
-         * Shared translations.
-         *
-         */
-        'title' => 'Updateur de Laravel',
-
-        /**
-         *
-         * Welcome page translations for update feature.
-         *
-         */
-        'welcome' => [
-            'title'   => 'Bienvenue dans l\'updateur...',
-            'message' => 'Bienvenue dans le programme de mise à jour.',
+    'updater'   => [
+        'final'     => [
+            'exit'      => 'Cliquez ici pour quitter',
+            'finished'  => 'L’application a été mise à jour avec succès.',
+            'title'     => 'Terminé',
         ],
-
-        /**
-         *
-         * Welcome page translations for update feature.
-         *
-         */
-        'overview' => [
-            'title'   => 'Aperçu',
-            'message' => 'Il y a 1 mise à jour.|Il y a :number mises à jour.',
+        'overview'  => [
+            'message'   => 'Il y a 1 mise à jour.|Il y a :number mises à jour.',
+            'title'     => 'Aperçu',
         ],
-
-        /**
-         *
-         * Final page translations.
-         *
-         */
-        'final' => [
-            'title' => 'Terminé',
-            'finished' => 'L’application a été mise à jour avec succès.',
-            'exit' => 'Cliquez ici pour quitter',
+        'title'     => 'Updateur de Laravel',
+        'welcome'   => [
+            'message'   => 'Bienvenue dans le programme de mise à jour.',
+            'title'     => 'Bienvenue dans l\'updateur...',
         ],
     ],
 ];

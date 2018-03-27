@@ -7,8 +7,8 @@ return [
      * Shared translations.
      *
      */
+    'next'  => 'Następny krok',
     'title' => 'Laravel Instalator',
-    'next' => 'Następny krok',
 
 
     /**
@@ -16,9 +16,9 @@ return [
      * Home page translations.
      *
      */
-    'welcome' => [
-        'title'   => 'Instalacja Laravel',
-        'message' => 'Witaj w kreatorze instalacji.',
+    'welcome'   => [
+        'message'   => 'Witaj w kreatorze instalacji.',
+        'title'     => 'Instalacja Laravel',
     ],
 
 
@@ -27,8 +27,8 @@ return [
      * Requirements page translations.
      *
      */
-    'requirements' => [
-        'title' => 'Wymagania systemowe ',
+    'requirements'  => [
+        'title' => 'Wymagania systemowe',
     ],
 
 
@@ -37,7 +37,7 @@ return [
      * Permissions page translations.
      *
      */
-    'permissions' => [
+    'permissions'   => [
         'title' => 'Uprawnienia',
     ],
 
@@ -47,11 +47,11 @@ return [
      * Environment page translations.
      *
      */
-    'environment' => [
-        'title' => 'Ustawnienia środowiska',
-        'save' => 'Zapisz .env',
-        'success' => 'Plik .env został poprawnie zainstalowany.',
-        'errors' => 'Nie można zapisać pliku .env, Proszę utworzyć go ręcznie.',
+    'environment'   => [
+        'errors'    => 'Nie można zapisać pliku .env, Proszę utworzyć go ręcznie.',
+        'save'      => 'Zapisz .env',
+        'success'   => 'Plik .env został poprawnie zainstalowany.',
+        'title'     => 'Ustawnienia środowiska',
     ],
 
 
@@ -61,8 +61,8 @@ return [
      *
      */
     'final' => [
-        'title' => 'Instalacja zakończona',
-        'finished' => 'Aplikacja została poprawnie zainstalowana.',
-        'exit' => 'Kliknij aby zakończyć',
+        'exit'      => 'Kliknij aby zakończyć',
+        'finished'  => 'Aplikacja została poprawnie zainstalowana.',
+        'title'     => 'Instalacja zakończona',
     ],
 ];

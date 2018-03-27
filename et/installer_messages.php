@@ -7,8 +7,8 @@ return [
      * Shared translations.
      *
      */
+    'next'  => 'Järgmine samm',
     'title' => 'Laraveli installer',
-    'next' => 'Järgmine samm',
 
 
     /**
@@ -16,9 +16,9 @@ return [
      * Home page translations.
      *
      */
-    'welcome' => [
-        'title'   => 'Tere tulemast Laraveli installerisse',
-        'message' => 'Tere tulemast installatsiooniviisardisse.',
+    'welcome'   => [
+        'message'   => 'Tere tulemast installatsiooniviisardisse.',
+        'title'     => 'Tere tulemast Laraveli installerisse',
     ],
 
 
@@ -27,7 +27,7 @@ return [
      * Requirements page translations.
      *
      */
-    'requirements' => [
+    'requirements'  => [
         'title' => 'Nõuded',
     ],
 
@@ -37,7 +37,7 @@ return [
      * Permissions page translations.
      *
      */
-    'permissions' => [
+    'permissions'   => [
         'title' => 'Õigused',
     ],
 
@@ -47,11 +47,11 @@ return [
      * Environment page translations.
      *
      */
-    'environment' => [
-        'title' => 'Keskkonna seaded',
-        'save' => 'Salvesta .env',
-        'success' => 'Sinu .env faili seaded on salvestatud.',
-        'errors' => 'Ei saanud .env faili salvesta, palun loo see manuaalselt.',
+    'environment'   => [
+        'errors'    => 'Ei saanud .env faili salvesta, palun loo see manuaalselt.',
+        'save'      => 'Salvesta .env',
+        'success'   => 'Sinu .env faili seaded on salvestatud.',
+        'title'     => 'Keskkonna seaded',
     ],
 
 
@@ -61,8 +61,8 @@ return [
      *
      */
     'final' => [
-        'title' => 'Lõpetatud',
-        'finished' => 'Laravel on edukalt installitud',
-        'exit' => 'Väljumiseks vajuta siia',
+        'exit'      => 'Väljumiseks vajuta siia',
+        'finished'  => 'Laravel on edukalt installitud',
+        'title'     => 'Lõpetatud',
     ],
 ];
