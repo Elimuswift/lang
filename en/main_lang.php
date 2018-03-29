@@ -362,7 +362,7 @@ return [
     'invoice_item_added' => 'The item :title was successfully added to this invoice',
     'invoice_payments' => 'Invoice Payments',
     'invoice_prefix' => 'Invoice Prefix',
-    'invoice_templates' => 'Invoice Templates',
+    'invoice_templates' => 'Products and Services',
     'invoices' => 'Invoices',
     'invoices_due_after' => 'Invoices Due After',
     'invoicing' => 'Pay Fees',
@@ -737,4 +737,7 @@ return [
     'due_amount' => 'Due Amount',
     'no_invoice_to_show' => 'There are no invoices to display',
     'frequency' => 'Frequency',
+    'recurring_invoice' => 'Recurring Invoice',
+    'edit_invoice' => 'Edit Invoice',
+    'update_item' => 'Edit Item',
 ];
