@@ -754,4 +754,5 @@ return [
     'list_staff' => 'List Staff',
     'all_staff' => 'All Staff',
     'default_language' => 'Default Language',
+    'discipline_cases' => 'Discipline Cases',
 ];
