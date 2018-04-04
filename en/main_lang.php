@@ -539,8 +539,8 @@ return [
     'refresh' => 'Refresh',
     'refresh_reg' => 'Refresh Registration',
     'refund' => 'Refund',
-    'reg' => 'Reg. No.',
-    'reg_no' => 'Reg No',
+    'reg' => 'Student Number',
+    'reg_no' => 'Student Number',
     'register' => 'Register',
     'register_note' => 'This account is only used for Language File Translation',
     'registered' => 'Registered',
@@ -755,4 +755,6 @@ return [
     'all_staff' => 'All Staff',
     'default_language' => 'Default Language',
     'discipline_cases' => 'Discipline Cases',
+    'delete_comment' => 'Delete Comment',
+    'reported_by' => 'Reported By',
 ];
