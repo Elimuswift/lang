@@ -757,4 +757,8 @@ return [
     'discipline_cases' => 'Discipline Cases',
     'delete_comment' => 'Delete Comment',
     'reported_by' => 'Reported By',
+    'invoice_deleted' => 'An invoice with reference :ref was deleted',
+    'success_message' => 'Request completed successfully',
+    'success_title' => 'Success',
+    'reference' => 'Reference',
 ];
