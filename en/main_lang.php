@@ -761,4 +761,8 @@ return [
     'success_message' => 'Request completed successfully',
     'success_title' => 'Success',
     'reference' => 'Reference',
+    'school_name' => 'School Name',
+    'admin_name' => 'Admin Name',
+    'admin_email' => 'Admin Email',
+    'admin_password' => 'Admin Password',
 ];
