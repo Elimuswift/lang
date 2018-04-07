@@ -759,10 +759,12 @@ return [
     'reported_by' => 'Reported By',
     'invoice_deleted' => 'An invoice with reference :ref was deleted',
     'success_message' => 'Request completed successfully',
-    'success_title' => 'Success',
     'reference' => 'Reference',
     'school_name' => 'School Name',
     'admin_name' => 'Admin Name',
     'admin_email' => 'Admin Email',
     'admin_password' => 'Admin Password',
+    'unauthenticated' => 'Unauthenticated',
+    'cant_delete_default' => 'Cannot delete the default company',
+    'company_delete' => 'The company :name and all data ascociated to it has been deleted',
 ];
