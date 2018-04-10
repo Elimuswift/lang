@@ -780,4 +780,5 @@ return [
     'scholarships' => 'Scholarships',
     'add_beneficiary' => 'Add Beneficiary',
     'created_by' => 'Created By',
+    'no_connection' => 'Please check your internet connection and try again',
 ];
