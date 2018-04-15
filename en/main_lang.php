@@ -348,7 +348,7 @@ return [
     'if_any' => 'If Any',
     'image' => 'Image',
     'import_from_excel' => 'Import From Excel',
-    'incurred_exp' => 'Expense Incurred in the month of',
+    'incurred_exp' => 'Expense Incurred in :symbol',
     'info' => 'Pay Attention !',
     'insert_comment' => 'Add a Comment',
     'instagram_id' => 'Instagram Username',
@@ -787,4 +787,8 @@ return [
     'expired_token' => 'The CSRF Token has expired. Please reload page and try again',
     'logo_uploaded' => 'The application\'s was uploded successfully',
     'student_admited' => 'A new student :student was successfully added',
+    'expenses_in' => 'Expenses incurred on :month was :symbol :amount',
+    'errors' => 'Errors',
+    'cancel_payment' => 'Cancel Payment',
+    'cancel_payment_notice' => 'You are about to cancel a payment, This action cannot be reversed',
 ];
