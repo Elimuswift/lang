@@ -791,4 +791,7 @@ return [
     'errors' => 'Errors',
     'cancel_payment' => 'Cancel Payment',
     'cancel_payment_notice' => 'You are about to cancel a payment, This action cannot be reversed',
+    'processed' => 'Processed',
+    'lesson_updated' => 'Lesson scheduled to start at :start and end at :end',
+    'lessons_conflicting' => 'It seems the teacher assigned to that lesson has another class at this time',
 ];
