@@ -794,4 +794,9 @@ return [
     'processed' => 'Processed',
     'lesson_updated' => 'Lesson scheduled to start at :start and end at :end',
     'lessons_conflicting' => 'It seems the teacher assigned to that lesson has another class at this time',
+    'no_contacts' => 'There are no contacts available for this organization',
+    'unknown_error' => 'An unknown error was encountered, if this persists report it as a bug',
+    'earnings' => 'Earnings',
+    'payments_in' => 'Payments Received in :symbol',
+    'payments_received' => 'Payments Received on :month was :symbol :amount',
 ];
