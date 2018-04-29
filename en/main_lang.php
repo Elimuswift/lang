@@ -818,4 +818,10 @@ return [
     'tag_budget' => 'Tag Budget',
     'create_expense' => 'Create Expense',
     'none' => 'None',
+    'merge_avg' => 'Merge By finding avarage',
+    'merge_add' => 'Merge By adding up exams (Sum)',
+    'merge_criteria' => 'Merge Criteria',
+    'merge_exams' => 'Merge Exams',
+    'merge_with' => 'Merge With',
+    'view_pdf' => 'View PDF',
 ];
