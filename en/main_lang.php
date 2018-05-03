@@ -824,4 +824,11 @@ return [
     'merge_exams' => 'Merge Exams',
     'merge_with' => 'Merge With',
     'view_pdf' => 'View PDF',
+    'update_vehicle' => 'Update Vehicle Details',
+    'created_on' => 'Created On',
+    'decline' => 'Decline',
+    'declined' => 'Declined',
+    'approve' => 'Approve',
+    'approval_notice' => 'This expense will be markerd as :action. Please write down short note regarding this action',
+    'approval_notes' => 'Approval Notes',
 ];
