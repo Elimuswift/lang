@@ -831,4 +831,5 @@ return [
     'approve' => 'Approve',
     'approval_notice' => 'This expense will be markerd as :action. Please write down short note regarding this action',
     'approval_notes' => 'Approval Notes',
+    'approved_by' => 'Approved By',
 ];
